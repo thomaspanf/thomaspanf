@@ -1,16 +1,15 @@
-## Hi there 👋
+#### 328.8756
 
-<!--
-**thomaspanf/thomaspanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[[KZ](https://developer.valvesoftware.com/wiki/Kreedz_Climbing)] tpf jumped 328.8756 units with a Bhop [9 Strafes | 359.700 Pre | 413.205 Max | Height 58.1 | 73% Sync]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| #  | Sync | Gained | Lost  | MaxSpeed | AirTime |
+|----|------|--------|-------|----------|---------|
+| 1. | 100% | 6.803  | 0.000 | 366.503  | 9%      |
+| 2. | 92%  | 10.108 | 0.000 | 376.611  | 16%     |
+| 3. | 83%  | 5.100  | 0.330 | 381.381  | 8%      |
+| 4. | 73%  | 8.202  | 0.000 | 389.584  | 12%     |
+| 5. | 67%  | 5.762  | 0.000 | 395.347  | 12%     |
+| 6. | 67%  | 5.477  | 0.000 | 400.825  | 12%     |
+| 7. | 64%  | 5.547  | 0.000 | 406.372  | 14%     |
+| 8. | 82%  | 6.939  | 0.105 | 413.205  | 12%     |
+| 9. | 33%  | 1.067  | 2.738 | 413.205  | 3%      |
